@@ -1,5 +1,5 @@
 const CACHE_NAME = "v1";
-const urlsToCache = ["/", "/index.html", "index.js", "pis.png", "styles.css"];
+const urlsToCache = ["./", "index.html", "index.js", "pis.png", "styles.css"];
 
 self.addEventListener("install", event => {
   debugger;
