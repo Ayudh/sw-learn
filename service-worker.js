@@ -7,7 +7,7 @@ var offlineFundamentals = [
   './app.js',
   './style.css',
   './pis.png',
-  './manfiest.json'
+  './manifest.json'
 ];
 
 self.addEventListener("install", function(event) {
